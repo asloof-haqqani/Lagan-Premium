@@ -64,5 +64,5 @@ export const BANK_DETAILS = {
   accountName: "LAGAN BUS SERVICES",
   accountNo: "123456789012",
   branch: "Nintavur",
-  reference: "Name + Phone"
+  reference: "Passenger Name"
 };
